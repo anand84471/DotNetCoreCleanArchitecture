@@ -1,0 +1,12 @@
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\DAL\obj\Release\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\DAL\obj\Release\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\DAL\obj\Release\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\DAL\obj\Release\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\DAL\bin\Release\netcoreapp3.1\DAL.deps.json
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\DAL\bin\Release\netcoreapp3.1\DAL.dll
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\DAL\bin\Release\netcoreapp3.1\DAL.pdb
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\DAL\bin\Release\netcoreapp3.1\Core.dll
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\DAL\bin\Release\netcoreapp3.1\Core.pdb
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\DAL\obj\Release\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\DAL\obj\Release\netcoreapp3.1\DAL.dll
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\DAL\obj\Release\netcoreapp3.1\DAL.pdb

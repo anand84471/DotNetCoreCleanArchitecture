@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lzI7pVcbRbfyC3VFKiz+n4FDQGSlcojiXSXXt0/bC5RipU8ymdAxaB4VI1EX5FChoCY041dNmhMi4aZNZkHfBQ==",
+  "success": true,
+  "projectFilePath": "C:\\D\\Migration\\Dev\\Social\\SocialApis\\SocialApis\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akrcp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

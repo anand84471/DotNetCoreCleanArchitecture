@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\DotNetCoreServices\DotNetCoreEmailService\EmailService\EmailService\EmailService.csproj" />
+    <ProjectReference Include="..\..\..\..\DotNetCoreServices\DotNetCoreSmsService\SmsService\SmsService\SmsService\SmsService.csproj" />
+    <ProjectReference Include="..\Cache\Cache.csproj" />
+    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\DAL\DAL.csproj" />
+  </ItemGroup>
+
+</Project>

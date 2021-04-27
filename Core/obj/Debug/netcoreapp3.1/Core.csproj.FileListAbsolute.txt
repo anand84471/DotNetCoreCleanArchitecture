@@ -1,0 +1,9 @@
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\D\Migration\Dev\Social\SocialApis\SocialApis\Core\obj\Debug\netcoreapp3.1\Core.pdb
